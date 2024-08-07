@@ -1,0 +1,7 @@
+{
+    "domain": "photo_metadata_extractor",
+    "name": "Photo Metadata Extractor",
+    "version": "1.0",
+    "requirements": ["geopy", "exifread", "requests", "pillow"]
+  }
+  
