@@ -2,6 +2,9 @@
     "domain": "photo_metadata_extractor",
     "name": "Photo Metadata Extractor",
     "version": "1.0",
+    "documentation": "https://github.com/arogers86/home-assistant-photo-metadata-extractor",
+    "dependencies": [],
+    "codeowners": ["@arogers86"],
     "requirements": ["geopy", "exifread", "requests", "pillow"]
   }
   
